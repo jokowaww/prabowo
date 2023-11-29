@@ -55,5 +55,6 @@
 @wekku_wekmu :<a href="https://t.me/wekku_wekmu" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 ```
 ```
+
 ### Tampilan Menu
-![alt text]{https://github.com/jokowaww/prabowo/blob/main/wekkuwekmuvpn.jpg?raw=true}
+![alt text](https://github.com/jokowaww/prabowo/blob/main/wekkuwekmuvpn.jpg?raw=true)
